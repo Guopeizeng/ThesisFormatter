@@ -35,7 +35,7 @@ ThesisFormatter 是一个基于 Python tkinter 和 python-docx 开发的轻量�
 1. 克隆仓库与安装依赖
 
 Bash
-git clone https://github.com/yourusername/ThesisFormatter.git
+[git clone https://github.com/yourusername/ThesisFormatter.git](https://github.com/Guopeizeng/ThesisFormatter.git)
 cd ThesisFormatter
 pip install python-docx
 2. 启动图形界面
