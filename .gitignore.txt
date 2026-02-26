@@ -1,0 +1,3 @@
+__pycache__/
+*.docx
+!*_已格式化.docx
